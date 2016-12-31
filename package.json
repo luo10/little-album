@@ -6,7 +6,8 @@
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^4.13.3",
-    "formidable": "^1.0.17"
+    "formidable": "^1.0.17",
+    "silly-datetime": "^0.1.2"
   },
   "devDependencies": {},
   "scripts": {

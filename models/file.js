@@ -65,7 +65,7 @@ exports.getAllImagesByAlbumName = function(albumName, callback) {
                 }
                 // 加入数组
                 if (stats.isFile()) {
-                    allImage.push(files[i]);
+                    allImages.push(files[i]);
                 }
                 // 下一次遍历
                 iterator(i + 1);
